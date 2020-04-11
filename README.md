@@ -1,0 +1,2 @@
+＃yq_yang
+这是一个利用pyton的瓶框架和redis实现一个简单的模仿witter的demo，适合redis的初学者使用学习。里面还有很多没有完善。待日后慢慢完善
